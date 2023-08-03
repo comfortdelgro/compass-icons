@@ -34,7 +34,6 @@ jobs:
 
       - name: Build
         run: |
-          pnpm run --filter=@comfortdelgro/react-compass build
           pnpm run --filter=@comfortdelgro/compass-icons build
 
       - name: Create Release Pull Request or Publish
