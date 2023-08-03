@@ -40,9 +40,9 @@ build
 next-env.d.ts
 
 # build artefacts
-packages/react-compass/dist/
-packages/compass-icons/iconify/
-packages/compass-icons/react/
+
+iconify/
+react/
 
 # typescript
 *.tsbuildinfo

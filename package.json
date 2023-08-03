@@ -7,8 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/comfortdelgro/compass-design",
-    "directory": "packages/compass-icons"
+    "url": "https://github.com/comfortdelgro/compass-icons"
   },
   "license": "MIT",
   "author": "ComfortDelGro Corporation Limited (https://www.comfortdelgro.com/)",
