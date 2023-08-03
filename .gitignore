@@ -21,13 +21,6 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
-
-# testing
-coverage
-packages/react-compass/cypress/
-packages/react-compass/cypress/videos/
-packages/react-compass/src/*/__image_snapshots__/
-
 .env.production
 
 # turbo
