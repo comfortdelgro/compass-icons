@@ -1,5 +1,11 @@
 # @comfortdelgro/compass-icons
 
+## 1.1.0
+
+### Minor Changes
+
+- c062799: Enable named export for /iconify
+
 ## 1.0.0
 
 ### Major Changes
