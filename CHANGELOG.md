@@ -4,6 +4,12 @@
 
 ### Minor Changes
 
+- 770437a: Update
+
+## 1.3.0
+
+### Minor Changes
+
 - 6827a4d: Update named import
 
 ## 1.1.0
